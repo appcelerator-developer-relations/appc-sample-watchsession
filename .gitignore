@@ -10,3 +10,5 @@ tmp
 Thumbs.db
 extensions/WatchOS2/WatchOS2.xcodeproj/xcuserdata
 extensions/WatchOS2/WatchOS2.xcodeproj/project.xcworkspace
+i18n
+platform
